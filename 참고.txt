@@ -1,0 +1,7 @@
+streamlit run app.py
+
+
+https://pandas.pydata.org/docs/user_guide/style.html
+Table Styles
+
+데이콘에서 csv 하나 건져서 그걸로 시각화 ㄱ(환경 금융 관광 세가지 중 하나)
