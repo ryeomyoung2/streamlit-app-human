@@ -1,0 +1,11 @@
+streamlit run app.py
+
+deactivate
+source venv/Scripts/activate
+
+https://pandas.pydata.org/docs/user_guide/style.html
+Table Styles
+
+
+
+https://www.data.go.kr/tcs/vas/selectVisualizationListView.do
